@@ -1,0 +1,15 @@
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.deps.json
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.runtimeconfig.json
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.runtimeconfig.dev.json
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.dll
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.pdb
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.RazorAssemblyInfo.cache
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.RazorAssemblyInfo.cs
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.AssemblyInfoInputs.cache
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.AssemblyInfo.cs
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.RazorTargetAssemblyInfo.cache
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.dll
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.pdb
+C:\Learning\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.2\CoreAPI.xml
+C:\Learning\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.2\CoreAPI.xml

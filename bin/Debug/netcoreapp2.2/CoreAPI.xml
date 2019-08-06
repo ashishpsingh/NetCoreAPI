@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CoreAPI.Controllers.CustomerController.Post(CoreAPI.DatabaseModels.Customer)">
+             <summary>
+             Creates a Customer.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Customer
+                 {
+                    "name": "Item1",
+                    "address": true
+                 }
+            
+             </remarks>
+             <param name="customer"></param>
+             <returns>A newly created TodoItem</returns>
+             <response code="201">Returns the newly created item</response>
+             <response code="400">If the item is null</response> 
+        </member>
+        <member name="M:CoreAPI.Controllers.CustomerController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific Customer.
+            </summary>
+        </member>
+    </members>
+</doc>
